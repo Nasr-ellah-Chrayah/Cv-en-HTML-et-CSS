@@ -1,10 +1,14 @@
 #nasrou {
-color: rgb(165, 42, 110);
-
-}
+color: cyan;}
 #nassri {
     color: crimson;
 }
 #hesko {
 color: darkorange;
+}
+img {width: 200;
+    height: 240;
+}
+ul.a{
+    list-style-type: square;
 }
